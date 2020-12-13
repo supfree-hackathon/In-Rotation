@@ -1,0 +1,169 @@
+:root {
+
+/* Colors: */
+--secondary-700: #018786;
+--secondary-100: #70EFDE;
+--dark-🌑-surface-121212: #121212;
+--light-🌕-on-surface-medium-emphasis-000000-60-: #000000;
+--secondary-900: #005457;
+--dark-🌑-on-primary-high-emphasis-000000: #000000;
+--dark-🌑-on-primary-medium-emphasis-000000-74-: #000000;
+--light-🌕-on-primary-high-emphasis-ffffff: #FFFFFF;
+--unnamed-color-6200ee: #6200EE;
+
+/* Font/text values */
+--unnamed-font-family-roboto: Roboto;
+--unnamed-font-style-normal: normal;
+--unnamed-font-weight-300: 300px;
+--unnamed-font-weight-normal: normal;
+--unnamed-font-weight-medium: medium;
+--unnamed-font-size-10: 10px;
+--unnamed-font-size-14: 14px;
+--unnamed-font-size-16: 16px;
+--unnamed-font-size-20: 20px;
+--unnamed-font-size-24: 24px;
+--unnamed-font-size-34: 34px;
+--unnamed-font-size-48: 48px;
+--unnamed-font-size-60: 60px;
+--unnamed-font-size-96: 96px;
+--unnamed-character-spacing-0: 0px;
+--unnamed-character-spacing-0-25: 0.25px;
+--unnamed-character-spacing-0-14: 0.14px;
+--unnamed-character-spacing-0-5: 0.5px;
+--unnamed-character-spacing-0-18: 0.18px;
+--unnamed-character-spacing-1-5: 1.5px;
+--unnamed-character-spacing-0-1: 0.1px;
+--unnamed-character-spacing-1-25: 1.25px;
+--unnamed-character-spacing-0-15: 0.15px;
+--unnamed-character-spacing--0-48: -0.48px;
+--unnamed-character-spacing--1-44: -1.44px;
+--unnamed-line-spacing-16: 16px;
+--unnamed-line-spacing-20: 20px;
+--unnamed-line-spacing-24: 24px;
+--unnamed-line-spacing-36: 36px;
+--unnamed-line-spacing-56: 56px;
+--unnamed-line-spacing-72: 72px;
+--unnamed-line-spacing-112: 112px;
+--unnamed-text-transform-uppercase: uppercase;
+}
+
+/* Character Styles */
+.dark-🌑-h3 {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-48);
+line-height: var(--unnamed-line-spacing-56);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-ffffff);
+}
+.dark-🌑-h1 {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-300);
+font-size: var(--unnamed-font-size-96);
+line-height: var(--unnamed-line-spacing-112);
+letter-spacing: var(--unnamed-character-spacing--1-44);
+color: var(--unnamed-color-ffffff);
+}
+.dark-🌑-h5 {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-24);
+line-height: var(--unnamed-line-spacing-24);
+letter-spacing: var(--unnamed-character-spacing-0-18);
+color: var(--unnamed-color-ffffff);
+}
+.dark-🌑-subtitle-2 {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-medium);
+font-size: var(--unnamed-font-size-14);
+line-height: var(--unnamed-line-spacing-24);
+letter-spacing: var(--unnamed-character-spacing-0-1);
+color: var(--unnamed-color-ffffff);
+}
+.dark-🌑-subtitle {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-16);
+line-height: var(--unnamed-line-spacing-24);
+letter-spacing: var(--unnamed-character-spacing-0-14);
+color: var(--unnamed-color-ffffff);
+}
+.light-🌕-h5 {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-24);
+line-height: var(--unnamed-line-spacing-24);
+letter-spacing: var(--unnamed-character-spacing-0-18);
+color: var(--unnamed-color-000000);
+}
+.dark-🌑-body-1 {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-16);
+line-height: var(--unnamed-line-spacing-24);
+letter-spacing: var(--unnamed-character-spacing-0-5);
+color: var(--unnamed-color-ffffff);
+}
+.dark-🌑-body-2 {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-14);
+line-height: var(--unnamed-line-spacing-20);
+letter-spacing: var(--unnamed-character-spacing-0-25);
+color: var(--unnamed-color-ffffff);
+}
+.dark-🌑-overline {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-medium);
+font-size: var(--unnamed-font-size-10);
+line-height: var(--unnamed-line-spacing-16);
+letter-spacing: var(--unnamed-character-spacing-1-5);
+color: var(--unnamed-color-ffffff);
+text-transform: var(--unnamed-text-transform-uppercase);
+}
+.dark-🌑-button {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-medium);
+font-size: var(--unnamed-font-size-14);
+line-height: var(--unnamed-line-spacing-16);
+letter-spacing: var(--unnamed-character-spacing-1-25);
+color: var(--unnamed-color-ffffff);
+text-transform: var(--unnamed-text-transform-uppercase);
+}
+.dark-🌑-h6 {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-medium);
+font-size: var(--unnamed-font-size-20);
+line-height: var(--unnamed-line-spacing-24);
+letter-spacing: var(--unnamed-character-spacing-0-15);
+color: var(--unnamed-color-ffffff);
+}
+.dark-🌑-h2 {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-300);
+font-size: var(--unnamed-font-size-60);
+line-height: var(--unnamed-line-spacing-72);
+letter-spacing: var(--unnamed-character-spacing--0-48);
+color: var(--unnamed-color-ffffff);
+}
+.dark-🌑-h4 {
+font-family: var(--unnamed-font-family-roboto);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-34);
+line-height: var(--unnamed-line-spacing-36);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-ffffff);
+}
